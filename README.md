@@ -252,7 +252,6 @@ npm run dev
 * Practical use of RAG architecture
 * Combines AI + Electronics domain
 * Structured + conversational outputs
-* Built بالكامل using free tools
 
 ---
 
