@@ -8,7 +8,7 @@ from langchain_core.output_parsers import StrOutputParser
 from ingest import get_vectorstore
 
 llm = ChatGroq(
-    model="llama-3.3-70b-versatile",
+    model="qwen/qwen3.6-27b",
     temperature=0,
     api_key=os.environ.get("GROQ_API_KEY")
 )
